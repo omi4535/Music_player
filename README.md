@@ -1,6 +1,6 @@
 # <p align="center">HarmonyHub</p>
 <p align="center">
-  <img src="your-logo-image-url.png" alt="HarmonyHub Logo">
+  <img src="[your-logo-image-url.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Fyt3.googleusercontent.com%2FkIm1-07Bq4CUiZgYyFPrB9eAQh6kZ6wB9vlU8j_zFcwfEcEg4NzewGO2_aLmsra48JcCI9KHOaQ%3Ds900-c-k-c0x00ffffff-no-rj&tbnid=DW0tnrs9CiWQ6M&vet=12ahUKEwjZxfDN1-CAAxWYmWMGHWwICP8QMygNegQIARBl..i&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCH5zrh3cvoejbFr0q_W7eCw&docid=oKDBFE-Iv4uQtM&w=900&h=900&itg=1&q=HarmonyHub%20image%20for%20logo&ved=2ahUKEwjZxfDN1-CAAxWYmWMGHWwICP8QMygNegQIARBl)" alt="HarmonyHub Logo">
 </p>
 
 <div align="center">
@@ -27,3 +27,32 @@ Follow these steps to get started with HarmonyHub:
 
    ```sh
    git clone https://github.com/your-username/HarmonyHub.git
+
+
+## Usage
+
+Interact with HarmonyHub using the following options:
+
+- Enter `0` to quit the music player.
+- Enter `1` to play the next song in the playlist.
+- Enter `2` to play the previous song in the playlist.
+- Enter `3` to replay the current song.
+- Enter `4` to view a list of all available songs.
+- Enter `5` to display a list of available options.
+- Enter `6` to delete the current song from the playlist.
+
+## Contributing
+
+We welcome contributions! If you encounter any issues or have suggestions for improvements, feel free to:
+
+- Open an issue in this repository.
+- Create a pull request to propose changes.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Feel the rhythm with HarmonyHub - your Java-based Terminal Music Player!
+
