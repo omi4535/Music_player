@@ -50,7 +50,7 @@ We welcome contributions! If you encounter any issues or have suggestions for im
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Made with love by omkar dhage.
 
 ---
 
